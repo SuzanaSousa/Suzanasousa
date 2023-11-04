@@ -1,7 +1,7 @@
 ### Olá eu sou a Suzana Sousa💻
 
 <div>
- <a href="https://beacons.ia/suzanaSousa">
+ <a href="https://suzana/suzanaSousa">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuzanaSousa&show_icons=true&theme=synthwave&include_all_commits-true&count_private-true"/>
  <img height="300em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=SuzanaSousa&layout=compact&langs_count-16&theme-synthwave"/>
 <div>
