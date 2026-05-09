@@ -33,11 +33,9 @@ Sou graduada em **Análise e Desenvolvimento de Sistemas**. Unindo essas duas fr
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SuzanaSousa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuzanaSousa&layout=compact&langs_count=16&theme=synthwave" />
-</p>
-
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SuzanaSousa&theme=synthwave&hide_border=true" />
+</div>
 ---
 
 ### 📫 Vamos nos conectar?
