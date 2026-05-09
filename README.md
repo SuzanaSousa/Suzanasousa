@@ -31,11 +31,12 @@ Sou graduada em **Análise e Desenvolvimento de Sistemas**. Unindo essas duas fr
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Nível de Proficiência
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SuzanaSousa&theme=synthwave&hide_border=true" />
-</div>
+![Python](https://img.shields.io/badge/Python-Avançado-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-yellow?style=flat-square&logo=javascript)
+![R](https://img.shields.io/badge/R-Dados-blue?style=flat-square&logo=r)
+![Web3](https://img.shields.io/badge/Web3-Entusiasta-orange?style=flat-square&logo=ethereum)
 ---
 
 ### 📫 Vamos nos conectar?
