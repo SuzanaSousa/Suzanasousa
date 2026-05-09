@@ -1,10 +1,10 @@
 
 ### 🌌 Olá, eu sou a Suzana! 
 
-Sou graduada em **Análise e Desenvolvimento de Sistemas**. Unindo essas duas frentes, foco em criar soluções que otimizam processos através de tecnologia, automação e análise de dados.
+Sou graduada em **Análise e Desenvolvimento de Sistemas**. Meu foco é aprender a transformar processos manuais em soluções digitais através de automação e análise de dados, um passo de cada vez.
 
 - 🎓 Graduada pela **FATEC**.
-- ⛓️ Entusiasta de **Web3** e **Blockchain** (Participante da 5ª Web3 Week).
+- <i class="fi fi-rr-bulb"></i>Entusiasta de **Web3** e **Blockchain** (Participante da 5ª Web3 Week).
 - 📊 Aprendendo manipulação e análise de dados.
 
 ---
