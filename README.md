@@ -54,13 +54,3 @@ Sou graduada em **Análise e Desenvolvimento de Sistemas**. Unindo essas duas fr
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-snake.azurewebsites.net/github-snake.svg?user=SuzanaSousa&circle-color=00e5ff&snake-color=7b1fa2&dot-color=2d333b" alt="Snake game" />
-</div>
-
-
-
-
-
-
-
