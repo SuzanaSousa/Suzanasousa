@@ -4,12 +4,11 @@
 
 ### 🌌 Olá, eu sou a Suzana! 
 
-Sou graduada em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Assistente Administrativa**. Unindo essas duas frentes, foco em criar soluções que otimizam processos através de tecnologia, automação e análise de dados.
+Sou graduada em **Análise e Desenvolvimento de Sistemas**. Unindo essas duas frentes, foco em criar soluções que otimizam processos através de tecnologia, automação e análise de dados.
 
 - 🎓 Graduada pela **FATEC**.
 - ⛓️ Entusiasta de **Web3** e **Blockchain** (Participante da 5ª Web3 Week).
-- 🤖 Especialista em automação de tarefas com **Python**.
-- 📊 Experiência em manipulação e análise de dados com **R**.
+- 📊 Aprendendo manipulação e análise de dados.
 
 ---
 
