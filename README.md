@@ -51,10 +51,10 @@ Sou graduada em **Análise e Desenvolvimento de Sistemas**. Unindo essas duas fr
 
 ### 📫 Vamos nos conectar?
 <div align="center">
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:suzsousa10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/suzana-sousa-2b19a4210/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
