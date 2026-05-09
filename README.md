@@ -4,7 +4,8 @@
 Sou graduada em **Análise e Desenvolvimento de Sistemas**. Meu foco é aprender a transformar processos manuais em soluções digitais através de automação e análise de dados, um passo de cada vez.
 
 - 🎓 Graduada pela **FATEC**.
-- <i class="fi fi-rr-bulb"></i>Entusiasta de **Web3** e **Blockchain** (Participante da 5ª Web3 Week).
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/951e7849-d2dc-412c-b695-ce3f372e2339" />
+Entusiasta de **Web3** e **Blockchain** (Participante da 5ª Web3 Week).
 - 📊 Aprendendo manipulação e análise de dados.
 
 ---
